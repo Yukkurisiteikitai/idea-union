@@ -1,0 +1,10 @@
+{
+    "LMSTUDIO_BASE_URL": "http://localhost:1234/v1",
+    "API_KEY": "lm-studio",
+    "MODEL_NAME": "gemma-3-12b-it",
+    "CSV_FILENAME": "q.csv",
+    "GOOD_SERVICE_FILENAME": "good-service.json",
+    "ALL_IDEAS_FILENAME_PREFIX": "all_ideas_",
+    "IDEAS_PER_CYCLE": 5,
+    "NUM_ELEMENTS_TO_COMBINE": 3
+}

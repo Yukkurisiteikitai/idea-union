@@ -1,3 +1,8 @@
+[日本語 Japanese 日语](./docs/readme_ja.md)  
+[英語 English 英语](./docs/readme_en.md)  
+[中国語（簡体字) Chinese 中文](./docs/readme_chn.md)  
+
+
 # Other-Discussion
 LM Studioでも使えるようにしまた。
 
